@@ -1,5 +1,5 @@
-public class EvenOddArr{
-    public static void main(String args[]){
+public class EvenOddArr {
+     public static void main(String args[]){
 
         int[] evenNumbers = new int[20];
         int[] oddNumbers = new int[20];
@@ -16,4 +16,5 @@ public class EvenOddArr{
         System.out.println("Sum of EvenNumbers :" +evenSum);
         System.out.println("Sum of oddNumbers :" +oddSum);
     }
+    
 }
